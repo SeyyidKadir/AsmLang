@@ -1,0 +1,10 @@
+build/
+bench/out/
+src/bench_embed.inc
+src/embed.bc
+*.bc
+*.img
+*.o
+*.ppm
+qemu-debs/
+qemu-debs.tar.gz

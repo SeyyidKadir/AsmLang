@@ -1,0 +1,36 @@
+== asmlang ==
+
+--- cikti ---
+merhaba, dunya!
+5
+dogru
+[1, 2, 3]
+2
+[1, 99, 3, 42, son]
+5
+[[1, 2], [3, 4]]
+3
+sayi: 42
+42
+120
+gc sonrasi hala saglam: dunya
+[1, 99, 3, 42, son]
+girdi yok (EOF)
+<tampon 4>
+4
+83
+
+--- ozet ---
+token   : 236
+dugum   : 184
+komut   : 157
+gc turu : 1
+nesne   : 4096
+sabit   : 35
+  dedup : 20
+superk  : 20
+  getgc : 13
+  addk  : 2
+guard   : 0
+dogrula : 0
+hata    : 0
